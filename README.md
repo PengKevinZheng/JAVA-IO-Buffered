@@ -2,6 +2,8 @@
 
 BufferedInputStream vs BufferedOutputStream
 
+They are used to enhance the performance.
+
 BufferedInputStream's superclass:
 java.lang.Object
 java.io.InputStream
