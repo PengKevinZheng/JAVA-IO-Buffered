@@ -15,3 +15,9 @@ java.lang.Object
 java.io.OutputStream
 java.io.FilterOutputStream
 java.io.BufferedOutputStream
+
+StringBuilder vs StringBuffer
+
+StringBuilder is not synchornized so its performance is better.
+
+StringBuffer is sunchornized so its performance is not as good as StringBuilder.
